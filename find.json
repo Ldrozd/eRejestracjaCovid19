@@ -1,0 +1,9 @@
+﻿{
+  "dayRange": {
+    "from": "2021-05-26",
+    "to": "2021-05-30"
+  },
+  "prescriptionId": "___prescriptionId___",
+  "voiId": "14",
+  "vaccineTypes": [ "cov19.pfizer" ]
+}
